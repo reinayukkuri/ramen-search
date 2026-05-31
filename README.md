@@ -27,17 +27,17 @@
 ## 使用API,SDK,ライブラリ
 - ホットペッパーグルメサーチAPI
 ### 使用ライブラリ
-play-services-location
-Ktor (2.3.11)
-Navigation Compose (2.9.8)
-Coil (2.6.0)
-Kotlinx Serialization (1.9.0)
-Material Icons Extended
-Activity Compose (1.3.0)
-UI Tooling (1.0.0)
-Material (1.0.1)
+- play-services-location
+- Ktor (2.3.11)
+- Navigation Compose (2.9.8)
+- Coil (2.6.0)
+- Kotlinx Serialization (1.9.0)
+- Material Icons Extended
+- Activity Compose (1.3.0)
+- UI Tooling (1.0.0)
+- Material (1.0.1)
 
 ## ホットペッパーリファレンスAPIの取得方法
-下記のサイトから、新規登録をしていただき、HotPepperClient.ktのapikey=""に取得したAPIを貼り付けてください。
+- 下記のサイトから、新規登録をしていただき、HotPepperClient.ktのapikey=""に取得したAPIを貼り付けてください。
 https://webservice.recruit.co.jp/register
-本アプリは未完成につき、ユーザーに向けて公開しているものではなく、勉強中につきましてAPIをローカルで管理をしておりません。お手数をおかけしますが開発環境下で実行をしてください。
+- 本アプリは未完成につき、ユーザーに向けて公開しているものではなく、勉強中につきましてAPIをローカルで管理をしておりません。お手数をおかけしますが開発環境下で実行をしてください。
