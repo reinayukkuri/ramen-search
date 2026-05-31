@@ -31,6 +31,7 @@
 
 - 詳細画面:APIから取得した店舗の詳細情報(店舗名/住所/アクセス/外部URL)
 - 外部サイトへの遷移:API取得ができなかった店舗や、ボトムシートを採用しているのでより詳細な情報はホットペッパーグルメへの外部遷移として対応
+- ![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510721599052058774/image.png?ex=6a1dd8a1&is=6a1c8721&hm=e44be84c3703f3fb8675d03442d2ff3859579189c3effae8a0f5f65fb8bd3a5c&)
 
 
 ## 使用API,SDK,ライブラリ
