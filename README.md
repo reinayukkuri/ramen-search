@@ -39,7 +39,7 @@
 - Material (1.0.1)
 
 ## APIkeyの取得方法
-- ホットペッパーAPI(https://webservice.recruit.co.jp/register)に新規登録
+- ホットペッパーAPI https://webservice.recruit.co.jp/register に新規登録
 - HotPepperClient.ktのapikey=""に取得したAPIを貼ってください。
 
 ## その他(現環境におけるバグ・一時的な対処方法)
