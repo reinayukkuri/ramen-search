@@ -26,6 +26,8 @@
 ![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510720964407590982/image.png?ex=6a1dd809&is=6a1c8689&hm=17f8d91198e983e18661eecd3f9abb8a5d6fae31ae62399c4d66aaf557768c41&)![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510720719196127253/image.png?ex=6a1dd7cf&is=6a1c864f&hm=8bb0875856a3912b04b99452d7779b0cf831a569b5ba68a49967f3b6ee707f2a&)
 - 検索画面:条件を指定してラーメン屋を検索する
 - 一覧画面:検索結果のラーメン屋を一覧表示する
+
+![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510721335549231174/image.png?ex=6a1dd862&is=6a1c86e2&hm=ea4c130e02ade5a08bb91842627a3ef2dc5d6dda3c66c948942268f5005d54e3&)
 - 外部サイトへの遷移:API取得ができなかった店舗や、ボトムシートを採用しているのでより詳細な情報はホットペッパーグルメへの外部遷移として対応
 
 ## 使用API,SDK,ライブラリ
