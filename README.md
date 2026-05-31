@@ -21,7 +21,7 @@
 
 ### 画面一覧
 - ホーム画面:おすすめ店舗、現在地に近いラーメン屋を表示
-![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510718101715550308/image.png?ex=6a1dd55f&is=6a1c83df&hm=8c5df2f920a951fa239927cf160db4930be0a151934413bae4619ba815c44115&)[sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510718101715550308/image.png?ex=6a1dd55f&is=6a1c83df&hm=8c5df2f920a951fa239927cf160db4930be0a151934413bae4619ba815c44115&)
+![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510718101715550308/image.png?ex=6a1dd55f&is=6a1c83df&hm=8c5df2f920a951fa239927cf160db4930be0a151934413bae4619ba815c44115&)![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510718101715550308/image.png?ex=6a1dd55f&is=6a1c83df&hm=8c5df2f920a951fa239927cf160db4930be0a151934413bae4619ba815c44115&)
 - 検索画面:条件を指定してラーメン屋を検索する
 - 一覧画面:検索結果のラーメン屋を一覧表示する
 - 激辛おすすめ一覧:わたしの行ったことがある激辛ラーメンのあるおすすめ店舗の一覧を表示、店舗情報、辛さレベルを右上に表記。
