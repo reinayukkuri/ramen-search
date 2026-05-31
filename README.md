@@ -27,7 +27,7 @@
 - 検索画面:条件を指定してラーメン屋を検索する
 - 一覧画面:検索結果のラーメン屋を一覧表示する
 
-![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510752698872496168/314_20260601061146.png?ex=6a1df597&is=6a1ca417&hm=50fd059adb534ae6ed4319333a4cba5e372f73f1767be13afe13017285d94cbe&)
+![sutreru_fav](https://media.discordapp.net/attachments/1148075495334883369/1510753189450743988/314_20260601061343.png?ex=6a1df60c&is=6a1ca48c&hm=bfd9ae30c22f37b27821c2f4a29722d737ba3ff038fca0d9c03a114f7c37debf&=&format=webp&quality=lossless)
 
 - 店舗詳細画面:APIから取得した店舗の詳細情報(店舗名/住所/アクセス/外部URL/営業時間)
 - 外部サイトへの遷移:API取得ができなかった店舗や、ボトムシートを採用しているのでより詳細な情報はホットペッパーグルメへの外部遷移として対応
