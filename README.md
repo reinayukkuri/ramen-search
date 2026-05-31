@@ -27,12 +27,12 @@
 - 検索画面:条件を指定してラーメン屋を検索する
 - 一覧画面:検索結果のラーメン屋を一覧表示する
 
-![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510721335549231174/image.png?ex=6a1dd862&is=6a1c86e2&hm=ea4c130e02ade5a08bb91842627a3ef2dc5d6dda3c66c948942268f5005d54e3&)
+![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510752698872496168/314_20260601061146.png?ex=6a1df597&is=6a1ca417&hm=50fd059adb534ae6ed4319333a4cba5e372f73f1767be13afe13017285d94cbe&)
 
 - 店舗詳細画面:APIから取得した店舗の詳細情報(店舗名/住所/アクセス/外部URL/営業時間)
 - 外部サイトへの遷移:API取得ができなかった店舗や、ボトムシートを採用しているのでより詳細な情報はホットペッパーグルメへの外部遷移として対応
 
-![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510721599052058774/image.png?ex=6a1dd8a1&is=6a1c8721&hm=e44be84c3703f3fb8675d03442d2ff3859579189c3effae8a0f5f65fb8bd3a5c&)
+![sutreru_fav](https://cdn.discordapp.com/attachments/1148075495334883369/1510752698872496168/314_20260601061146.png?ex=6a1df597&is=6a1ca417&hm=50fd059adb534ae6ed4319333a4cba5e372f73f1767be13afe13017285d94cbe&)
 
 ### 今後実装したいと考えている機能
 - GoogleMAPの実装
