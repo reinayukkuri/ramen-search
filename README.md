@@ -40,6 +40,7 @@
 
 
 ## 使用API,SDK,ライブラリ
+### 使用API
 - ホットペッパーグルメサーチAPI
 ### 使用ライブラリ
 - play-services-location
